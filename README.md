@@ -15,5 +15,6 @@ My names Ryan things I'm working on lately are:
 - 😎 Currently building a Android Kotlin OpenGL ES Engine
 - 🌱 I’m currently learning `C`, `Kotlin`, `Android` and `OpenGL ES` but typically work in `Java`
 - 🤔 I’m looking to help with Android development on open-source projects looking for contributors
+- 🐢 Graduating soon and looking for some interesting opportunities
 - 📫 How to reach me: I suppose a pull request on this README would do the trick
 - 😄 Pronouns: He/him
