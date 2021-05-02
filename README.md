@@ -8,7 +8,7 @@
 
 My names Ryan things I'm working on lately are:
 
-- 🔫 N64 Homebrew Development Series on YouTube [](Playlist) / [](Repository)
+- 🔫 N64 Homebrew Development Series on YouTube [Playlist](https://www.youtube.com/channel/UCg7jWtPBdmf4grhAbBDkffw) / [Repository](https://github.com/werkn/n64devkit-everdrive)
 - 😎 Building a Android Kotlin OpenGL ES Engine
 - 🌱 I’m currently learning `C`, `Kotlin`, `Android` and `OpenGL ES` but typically work in `Java`
 - 🤔 I’m looking to help with Android development on open-source projects looking for contributors
