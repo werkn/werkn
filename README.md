@@ -10,6 +10,7 @@ Work Stuff:
 - 🌱 **Pretty gosh darn good** at the following:
    - Angular, Typescript and Event-driven serverless architectures on Azure and AWS
    - 🐐 IaC using AWS CDK, Azure ARM and Bicep, with just a dash of TCL
+- 🔋 Power Platform: PCF, Canvas, Model-driven, Power Automate, etc... 
 - 🪖 Battle-hardened cloud developer
 - 📫 How to reach me: I suppose a pull request on this README would do the trick
 - 😄 Pronouns: He/him/dude/buddy 🇨🇦
